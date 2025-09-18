@@ -1,0 +1,11 @@
+numpy
+scipy
+torch
+torchvision
+timm
+nibabel
+pydicom
+opencv-python
+scikit-learn
+tensorboard
+tqdm
